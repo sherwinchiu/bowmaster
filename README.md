@@ -1,2 +1,3 @@
 # bowmaster
- Grade 10 python game (introduction to python and pygame)
+Grade 10 python game for final assignment
+Introduction to python and pygame
